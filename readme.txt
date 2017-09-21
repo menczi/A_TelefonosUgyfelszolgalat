@@ -4,7 +4,7 @@ mivel fájlokat kell írni-olvasni.
 A csoport tagja:
 - Szűcs Dávid
 - XY2
-- XY3
+- Menczigár Áron menczi
 
 VS Code + TypeScript + Node.js + Git
 =====================================
