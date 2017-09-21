@@ -2,9 +2,9 @@
 feladatának megoldása Visual Studio Code fejlesztői környezettel, TypeScript nyelven Node.js-el a szerver oldalon,
 mivel fájlokat kell írni-olvasni.
 A csoport tagja:
-- Szűcs Dávid (szucshey)
+- Szűcs Dávid
 - XY2
-- XY3
+- Menczigár Áron menczi
 
 VS Code + TypeScript + Node.js + Git
 =====================================
